@@ -1,0 +1,3122 @@
+{
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation": {
+    "time": 1746776787000,
+    "uuid": "258610ea-7aca-4332-9b0d-42fa0e0ef077",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio": {
+    "time": 1746776787000,
+    "uuid": "cbc4cbe9-4898-49a8-9bc5-3b8a76b3a5f4",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Font": {
+    "time": 1746776795000,
+    "uuid": "2f0f2e14-a3e2-42a9-9351-399833b63697",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image": {
+    "time": 1746776813000,
+    "uuid": "b222617a-f97d-421d-838c-d847ba173dbe",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard": {
+    "time": 1746776795000,
+    "uuid": "0d1060af-307c-4e73-807c-41987705c1a0",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Prefab": {
+    "time": 1746776795000,
+    "uuid": "97221743-831e-485a-9d2b-707ba093bfd9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Scene": {
+    "time": 1747017210000,
+    "uuid": "692f9715-b1f7-4684-a4b7-568a5adcb897",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script": {
+    "time": 1747017201000,
+    "uuid": "4016c4ec-7a21-49a4-871e-12a40a2d4eff",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion": {
+    "time": 1746776803000,
+    "uuid": "5c3e86f6-59cd-4ae9-a8f6-072a16966723",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Tutorial": {
+    "time": 1746776803000,
+    "uuid": "6f6ae7b0-ce14-4e31-ab3b-0d2d2f1a77e0",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/boards": {
+    "time": 1746776803000,
+    "uuid": "48a323f7-8557-4fe5-93ef-672b73fc971e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button": {
+    "time": 1746776813000,
+    "uuid": "3f9701d1-b51b-4830-98b2-1a2e1ffff4fb",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits": {
+    "time": 1746776813000,
+    "uuid": "2a44985e-2e38-446b-891a-88806b656d0c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Font": {
+    "time": 1746776795000,
+    "uuid": "84243761-60d1-4d71-ace2-05cb4b17dd25",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Image": {
+    "time": 1746776795000,
+    "uuid": "891c1e01-3c1e-4443-bc27-f4e20db9d4c9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Script": {
+    "time": 1746776795000,
+    "uuid": "3f22a182-4197-465e-aff1-18a27a653f2e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/GameCenter": {
+    "time": 1747016737000,
+    "uuid": "a590144f-5ebc-4fca-9cd0-3d00e72791d6",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/GameManager": {
+    "time": 1747017201000,
+    "uuid": "ff10dbbd-413f-4c10-aac3-d82c22304c06",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/PrefabControl": {
+    "time": 1746776795000,
+    "uuid": "ebe07f85-1b88-4df8-ab91-a5889bef2ee3",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/Utils": {
+    "time": 1746776795000,
+    "uuid": "9ea0deb2-3ef4-47b8-8345-da8d62d9bac3",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/AudioController.ts": {
+    "time": 1746826864000,
+    "uuid": "0398e912-870e-4456-9fc9-aa5985f1f80d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/EntryManager.ts": {
+    "time": 1747067135638.2751,
+    "uuid": "09a9f75c-02e3-4111-a297-29254c9cb696",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/MenuManager.ts": {
+    "time": 1746826864000,
+    "uuid": "9a9b98dc-5d0a-493f-b67e-adf5491cf2fd",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/NodeModal.ts": {
+    "time": 1746826864000,
+    "uuid": "4b59bb15-8c48-4c3d-9c36-16938939278c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/PoolManager.ts": {
+    "time": 1746826864000,
+    "uuid": "f66eb0d3-bb99-4009-a7f7-80ad919deffb",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/ScoreManager.ts": {
+    "time": 1746826864000,
+    "uuid": "5a93f7bd-4c31-41c9-8918-5be7e902f4b9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/Splash.ts": {
+    "time": 1746826864000,
+    "uuid": "5c2748f6-3ccb-4529-bdc4-0e247b978ac9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/Tutorial.ts": {
+    "time": 1746826864000,
+    "uuid": "cea36a55-2f16-4dbe-90cb-b1b4efee36d5",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Script/ItemLeaderboard.ts": {
+    "time": 1746826864000,
+    "uuid": "6da02de4-5946-4895-990f-fcb11518fdfe",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Script/LeaderboardHandle.ts": {
+    "time": 1746826864000,
+    "uuid": "ef9cbada-588b-4e7a-bfab-2fcdec15b1f6",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/GameCenter/GameCenterController.ts": {
+    "time": 1747067089798.5303,
+    "uuid": "15b79103-8b84-4b54-b005-a9a101018351",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/GameCenter/StoreAPI.ts": {
+    "time": 1746826864000,
+    "uuid": "484a6452-cdd7-42f7-8a21-599997087971",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/GameManager/GameController.ts": {
+    "time": 1747067563244.5918,
+    "uuid": "37702071-4d6b-4bea-9add-790f0096d798",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/GameManager/GameView.ts": {
+    "time": 1746826864000,
+    "uuid": "12a1e561-4569-45b2-b707-0d76690c99cc",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/GameManager/MatrixManager.ts": {
+    "time": 1746826864000,
+    "uuid": "9cd101f6-6c1b-48dc-a0a7-3e8d0f52f02d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/PrefabControl/AnimationScore.ts": {
+    "time": 1746826864000,
+    "uuid": "a44aa2ce-c8be-4eaa-b39d-6ef29edb6ba7",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/PrefabControl/Cell.ts": {
+    "time": 1746826864000,
+    "uuid": "d5f02a34-310f-45f9-9cd7-23d23b0608c8",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/PrefabControl/LevelBar.ts": {
+    "time": 1746826864000,
+    "uuid": "c028f6c8-f2bd-4d75-8eae-e5b7ed26bbc2",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/Utils/Constants.ts": {
+    "time": 1746826864000,
+    "uuid": "47d00a45-9db8-4786-b015-025453d7da6c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/Utils/DataGame.ts": {
+    "time": 1746826864000,
+    "uuid": "bbe0ae36-1a1f-4405-ae9a-b84a7fe88b9c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/Utils/DataTypes.ts": {
+    "time": 1746826864000,
+    "uuid": "57b0f6a6-63be-4759-9352-6dc973c0fd3a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Font.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Prefab.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Scene.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Tutorial.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/boards.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Font.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Image.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Script.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/GameCenter.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/GameManager.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/PrefabControl.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/Utils.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/AudioController.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/EntryManager.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/MenuManager.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/NodeModal.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/PoolManager.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/ScoreManager.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/Splash.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/Tutorial.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Script/ItemLeaderboard.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Script/LeaderboardHandle.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/GameCenter/GameCenterController.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/GameCenter/StoreAPI.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/GameManager/GameController.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/GameManager/GameView.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/GameManager/MatrixManager.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/PrefabControl/AnimationScore.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/PrefabControl/Cell.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/PrefabControl/LevelBar.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/Utils/Constants.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/Utils/DataGame.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Script/Utils/DataTypes.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimBoom.anim": {
+    "time": 1746826864000,
+    "uuid": "12cd87d7-929d-4e5d-b7c7-582e63e18e0c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimSplash.anim": {
+    "time": 1746826864000,
+    "uuid": "72901f5b-7477-4584-a93a-79bb34083dd6",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimationBooster.anim": {
+    "time": 1746826864000,
+    "uuid": "1cf249fd-7b6b-4395-bf77-50fe9799fb8b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimationFruit.anim": {
+    "time": 1746826864000,
+    "uuid": "3d56e42e-2268-443c-9497-9f752069e9f8",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimationGameOver.anim": {
+    "time": 1746826864000,
+    "uuid": "74f730a9-b225-417e-979c-843e36a33d5b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimationGift.anim": {
+    "time": 1746826864000,
+    "uuid": "5ff6ab2a-b90b-4499-b737-5d937686791b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimationHammer.anim": {
+    "time": 1746826864000,
+    "uuid": "3f6f1175-7fc3-4dc9-a4a6-71ce3b33ac56",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimationHidden.anim": {
+    "time": 1746826864000,
+    "uuid": "a2854c4f-27ff-4681-8601-b50a67a5dc4e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimationLoad.anim": {
+    "time": 1746826864000,
+    "uuid": "e45f4a07-aade-4a91-a801-603ea32155ca",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimationPointer.anim": {
+    "time": 1746826864000,
+    "uuid": "6c6df3d3-0971-4316-843b-23dbbc35ec19",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimationScore.anim": {
+    "time": 1746826864000,
+    "uuid": "bd0ae143-ab1b-42bc-aef8-645e6ca6000c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/animExplosion.anim": {
+    "time": 1746826864000,
+    "uuid": "31e87c98-b9b6-4115-a9e7-43f45d29d4d2",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/logo.atlas": {
+    "time": 1746826864000,
+    "uuid": "da291062-2ed5-4a18-814c-4141f9da22be",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/logo.png": {
+    "time": 1746826864000,
+    "uuid": "a686401c-84b9-41ee-89da-5585d2b6a0bb",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/logo.skel": {
+    "time": 1746826864000,
+    "uuid": "8de58bfd-90c8-448f-a0dc-dcafddeb9b84",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/appear.wav": {
+    "time": 1746826864000,
+    "uuid": "267d6e3c-e7ad-465a-b672-baea72fa753b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/award.mp3": {
+    "time": 1746826864000,
+    "uuid": "860bfc93-bd27-4b75-b66f-5da37e951e8e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/bgm.mp3": {
+    "time": 1746826864000,
+    "uuid": "ac9ce704-2494-4e95-9ede-af67f5cede09",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/button.mp3": {
+    "time": 1746826864000,
+    "uuid": "87cbf05d-d9c1-4669-847d-9f026b23c39f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/click-ball.mp3": {
+    "time": 1746826864000,
+    "uuid": "c0aeae74-4c42-4933-9642-4528926b48b1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/explosion.mp3": {
+    "time": 1746826864000,
+    "uuid": "c7bf7b34-8552-42c1-a716-630a142742d0",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/hammer.mp3": {
+    "time": 1746826864000,
+    "uuid": "504bafbd-4709-4727-9af6-985b089264c0",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/lv failed.mp3": {
+    "time": 1746826864000,
+    "uuid": "b556b09f-11a1-41f9-847b-5ffe2fc1c651",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/notice.mp3": {
+    "time": 1746826864000,
+    "uuid": "7134270a-b635-45c4-8f04-da8171add3a4",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/slide.mp3": {
+    "time": 1746826864000,
+    "uuid": "5602f538-526e-4710-a6f8-a46a5eb4f00b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/spin.mp3": {
+    "time": 1746826864000,
+    "uuid": "20eadd0f-eccf-4bd3-be47-6c2f855242af",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/tick.mp3": {
+    "time": 1746826864000,
+    "uuid": "30064b0f-adcc-4343-a55f-c3281f952a28",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/win.mp3": {
+    "time": 1746826864000,
+    "uuid": "028cf2ca-b169-447e-b3bd-6e6dad9e745e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Font/LilitaOne-Regular.ttf": {
+    "time": 1746826864000,
+    "uuid": "2f9c716b-aaba-4299-a21b-7a68394a668e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Background.png": {
+    "time": 1746826864000,
+    "uuid": "c5530135-84e1-4855-97a9-27201d165b61",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Logo.png": {
+    "time": 1746826864000,
+    "uuid": "5a353323-fd8d-48d4-a2b6-9b56727a3884",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/PreloadCircle.png": {
+    "time": 1746826864000,
+    "uuid": "49ad42f5-0002-401b-ac45-eba405b156f4",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/PreloadSpinner.png": {
+    "time": 1746826864000,
+    "uuid": "895d2e15-7ec6-48a6-9e72-48bef104d2b4",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/bar.png": {
+    "time": 1746826864000,
+    "uuid": "779d425e-df1d-4a51-9bba-b0ac7f5fedd3",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/bgdoc.png": {
+    "time": 1746826864000,
+    "uuid": "5c9f8f58-ea15-4eac-bb45-9ec38231b7d2",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/btn-close.png": {
+    "time": 1746826864000,
+    "uuid": "b4f48bd8-ce6f-4475-9139-922a3e9e3444",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/btn-close_.png": {
+    "time": 1746826864000,
+    "uuid": "4adb7da4-c1cf-47d5-8fbf-a9e6effc1fc9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button-left.png": {
+    "time": 1746826864000,
+    "uuid": "7a95373e-6373-43a7-9511-68d6019a08b5",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button-right.png": {
+    "time": 1746826864000,
+    "uuid": "92827df7-2644-4d95-a142-514ab5ab6e0b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/circlewhite.png": {
+    "time": 1746826864000,
+    "uuid": "c8e03e6b-3877-4cfd-b075-2bec99a03549",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/count_down_o.png": {
+    "time": 1746826864000,
+    "uuid": "c5900ed4-2b33-4add-9ecb-394f357669fe",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/empty.png": {
+    "time": 1746826864000,
+    "uuid": "e3435007-6cbc-417c-802e-490c0a9b28a4",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/emtyplay.png": {
+    "time": 1746826864000,
+    "uuid": "5b030db7-3b3a-4f7a-b461-ac059b218229",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/gift.png": {
+    "time": 1746826864000,
+    "uuid": "398f4d4b-1905-455b-8508-2bda0bdb6822",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/new-BG.png": {
+    "time": 1746826864000,
+    "uuid": "54539bda-eb27-4062-9a15-c041bb65f6ae",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/texture-0.png": {
+    "time": 1746826864000,
+    "uuid": "77a8d32f-72a0-4ed7-b878-139de4ba4c4a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/texture-1.png": {
+    "time": 1746826864000,
+    "uuid": "67ec1f05-896e-4b28-8a10-e605955aba8c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/white.png": {
+    "time": 1746826864000,
+    "uuid": "7ab22a06-0051-4312-9186-4a10d1cde47a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/whitebg.jpg": {
+    "time": 1746826864000,
+    "uuid": "242fd8c1-b110-47d8-88cc-7b5bd3a7e74b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/x2.png": {
+    "time": 1746826864000,
+    "uuid": "a630e575-b65f-4836-a07a-2279695013bf",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/ItemLeaderboard.prefab": {
+    "time": 1746826864000,
+    "uuid": "931b182a-4b2d-49b0-bfbd-a0392d7b99b7",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Leaderboard.prefab": {
+    "time": 1747067646272.3308,
+    "uuid": "91b32a2f-b4fc-4a80-906a-de5f8dffeb1b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Prefab/AnimationScore.prefab": {
+    "time": 1746826864000,
+    "uuid": "45ce3917-1b52-45f4-a150-3c3f225ddfeb",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Prefab/Cell.prefab": {
+    "time": 1746826864000,
+    "uuid": "d60a7c09-cbf8-4364-99d6-6c405fbc6d8d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Prefab/Explosion.prefab": {
+    "time": 1746826864000,
+    "uuid": "13de06fa-1ac8-4348-87b8-5956efeb8214",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Prefab/Splash.prefab": {
+    "time": 1746826864000,
+    "uuid": "4b20721a-c933-499e-8e7b-06dc2a22b614",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Scene/Begin.scene": {
+    "time": 1746826864000,
+    "uuid": "0d6533fa-2082-47e6-902b-f0cce648330f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Scene/Entry.scene": {
+    "time": 1746826864000,
+    "uuid": "347446cc-837f-42c6-8cc0-44905c1bff0b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Scene/Game.scene": {
+    "time": 1747067647311.164,
+    "uuid": "447f0f3b-e9f5-4447-a049-ec2785ddb118",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e1.png": {
+    "time": 1746826864000,
+    "uuid": "78b1f201-933e-4263-abfe-7b8f2b03e805",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e10.png": {
+    "time": 1746826864000,
+    "uuid": "4874755d-eb42-49ea-a259-d78a0b47a072",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e11.png": {
+    "time": 1746826864000,
+    "uuid": "2a2f67a0-eb4a-410b-b8e4-45fe5a406015",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e12.png": {
+    "time": 1746826864000,
+    "uuid": "06fde4aa-dff7-472b-883a-c6fafb5c79b2",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e13.png": {
+    "time": 1746826864000,
+    "uuid": "11157760-6fd4-4ffe-b03f-8b8f2acb610a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e14.png": {
+    "time": 1746826864000,
+    "uuid": "15bd7c86-fa34-4f56-b4f8-ecb54c4f1ea3",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e15.png": {
+    "time": 1746826864000,
+    "uuid": "79c7deac-68d2-4b5c-b585-65912334a47d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e16.png": {
+    "time": 1746826864000,
+    "uuid": "5bd416a1-5298-484b-8ef5-496c6ab7745b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e17.png": {
+    "time": 1746826864000,
+    "uuid": "bd148c57-0a4e-4352-baeb-f4c9476da9eb",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e18.png": {
+    "time": 1746826864000,
+    "uuid": "8da9b5a8-ed1c-4408-9a16-a4ae300eae1e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e19.png": {
+    "time": 1746826864000,
+    "uuid": "b57009c0-a746-4059-9fad-310d1db3012f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e2.png": {
+    "time": 1746826864000,
+    "uuid": "19a33cd6-f13a-4541-96ad-f7b8906f4a56",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e20.png": {
+    "time": 1746826864000,
+    "uuid": "23791b74-2653-4000-9f49-813207103683",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e21.png": {
+    "time": 1746826864000,
+    "uuid": "0da70962-3344-40d2-9afa-22428fc4b614",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e22.png": {
+    "time": 1746826864000,
+    "uuid": "56472503-b211-4c80-be2a-1dba4452e7de",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e23.png": {
+    "time": 1746826864000,
+    "uuid": "9ab17f69-1bc7-4e67-98aa-93ecfc080001",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e25.png": {
+    "time": 1746826864000,
+    "uuid": "a762edc6-3a34-46e5-b358-e38377e47d1a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e26.png": {
+    "time": 1746826864000,
+    "uuid": "2ec17f94-a9cb-4741-a5a6-8e86287a827a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e27.png": {
+    "time": 1746826864000,
+    "uuid": "d20df590-674e-4fbe-a080-5b7d33d16c3d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e28.png": {
+    "time": 1746826864000,
+    "uuid": "2732152b-6d3c-45e4-99d1-6f16f5afa4aa",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e29.png": {
+    "time": 1746826864000,
+    "uuid": "6ea27e19-3dc5-45f5-a08f-d6179cccbf08",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e3.png": {
+    "time": 1746826864000,
+    "uuid": "0f60be5e-27f1-4e3d-96c2-c09fcf527995",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e30.png": {
+    "time": 1746826864000,
+    "uuid": "bb581113-6d9c-4ab3-8b27-99953e4a2ada",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e4.png": {
+    "time": 1746826864000,
+    "uuid": "adc1e644-e8b7-40ae-91fa-e0d8ef09b904",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e5.png": {
+    "time": 1746826864000,
+    "uuid": "58041d7a-f309-41d3-b82f-c2159044952e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e6.png": {
+    "time": 1746826864000,
+    "uuid": "a6a6116d-f482-4569-bf30-767199128389",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e7.png": {
+    "time": 1746826864000,
+    "uuid": "5da7fa17-3dca-495f-a3cd-ca5168288264",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e8.png": {
+    "time": 1746826864000,
+    "uuid": "81333761-1fc5-4f36-85fb-00027457b2bf",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e9.png": {
+    "time": 1746826864000,
+    "uuid": "7e0eff12-b6c9-46ee-a496-5219dbb9f6d4",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Tutorial/1.png": {
+    "time": 1746826864000,
+    "uuid": "2b4d7959-6206-4711-8499-ec31391bc8bf",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/boards/1.png": {
+    "time": 1746826864000,
+    "uuid": "10ee1323-5d96-4437-aa86-0450991b76dd",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/boards/2.png": {
+    "time": 1746826864000,
+    "uuid": "9c5b0d10-18d8-4130-8490-79c7c0e74fe1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/boards/3.png": {
+    "time": 1746826864000,
+    "uuid": "0f463ea5-ef93-4467-97a4-5d145e50baac",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/boards/4.png": {
+    "time": 1746826864000,
+    "uuid": "d218959a-f2e0-4d56-9979-211b87da93c1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/boards/5.png": {
+    "time": 1746826864000,
+    "uuid": "43ae93b3-489b-4731-8ea4-591a8c5896b6",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/boards/6.png": {
+    "time": 1746826864000,
+    "uuid": "1105b069-ed24-4c3e-9e8c-097b2934ded0",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/boards/emtyplay-2.png": {
+    "time": 1746826864000,
+    "uuid": "6327e8dc-4b9d-4273-8773-292f87ebc63f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/boards/emtyplay.png": {
+    "time": 1746826864000,
+    "uuid": "33c9e8f4-9fb1-4cda-b8c7-9944fb043d06",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/bg.png": {
+    "time": 1746826864000,
+    "uuid": "17321d8d-603e-4936-978a-34f438fe7b69",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/btn-boom.png": {
+    "time": 1746826864000,
+    "uuid": "8dbd47b4-8fe4-4a50-8140-5367ded9aba2",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/btn-close.png": {
+    "time": 1746826864000,
+    "uuid": "f47be966-8727-449c-bbb6-affa24aefd3d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/btn-hammer.png": {
+    "time": 1746826864000,
+    "uuid": "f31105c3-6c88-4347-9ca8-cf4944528a2c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/btn-home.png": {
+    "time": 1746826864000,
+    "uuid": "71a3fba9-10c3-4ff7-8c46-d8755eb35658",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/btn-play.png": {
+    "time": 1746826864000,
+    "uuid": "2290a7c8-f687-46f6-bdd1-134a4a3037b5",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/btn-return-2.png": {
+    "time": 1746826864000,
+    "uuid": "b3e309a9-52b6-491b-9fc3-f619051e510e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/btn-return.png": {
+    "time": 1746826864000,
+    "uuid": "bcc86aa3-7be0-45f8-b0c8-661999463acf",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/btn-setting.png": {
+    "time": 1746826864000,
+    "uuid": "2e1ffa36-ee43-44f6-a649-eaee4a3d6997",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/cell.png": {
+    "time": 1746826864000,
+    "uuid": "5722f7d6-e473-4e30-9a8c-e98748ccc7f8",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/circlewhite.png": {
+    "time": 1746826864000,
+    "uuid": "2733ce2b-2175-4a73-b07c-950191438d1c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/game.png": {
+    "time": 1746826864000,
+    "uuid": "a33db294-0452-4ccd-8244-9c8ff38e8418",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/goal.png": {
+    "time": 1746826864000,
+    "uuid": "9e859009-53f1-40e4-9173-d353ab347988",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/gold.png": {
+    "time": 1746826864000,
+    "uuid": "e34014b9-597d-4aad-97d2-8d972aa04dc5",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/hammer.png": {
+    "time": 1746826864000,
+    "uuid": "ec864e7a-bbd7-463e-a13b-24ce1add5511",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/item-boom.png": {
+    "time": 1746826864000,
+    "uuid": "889aead6-957d-486c-aedd-f5c57e6c775a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/off.png": {
+    "time": 1746826864000,
+    "uuid": "e32d560a-ae7f-41bc-851b-67decdfbd78a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/on.png": {
+    "time": 1746826864000,
+    "uuid": "43c25bc2-10df-40a7-aa3d-c095956d9277",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/option.png": {
+    "time": 1746826864000,
+    "uuid": "11a40d72-cbff-4ad8-bc2d-caa4dab6f9f6",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/play-blue.png": {
+    "time": 1746826864000,
+    "uuid": "3a00f600-ca46-4926-ac76-98eb4a055d53",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/pointer-2.png": {
+    "time": 1746826864000,
+    "uuid": "360ad2cd-28ce-47dc-af15-0dd42b7273d6",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/pointer.png": {
+    "time": 1746826864000,
+    "uuid": "da0a5735-0eb8-4bd1-9995-879b2c261827",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (10).png": {
+    "time": 1746826864000,
+    "uuid": "cf8a3b95-1fad-4f20-80e9-387418136abb",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (11).png": {
+    "time": 1746826864000,
+    "uuid": "fe09f3fc-3a90-445b-b7a9-26b4a7b23e68",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (12).png": {
+    "time": 1746826864000,
+    "uuid": "66fda394-db1f-455e-9537-6c6b835ddccf",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (2).png": {
+    "time": 1746826864000,
+    "uuid": "a76cee73-38a6-49f6-b930-7599a1c30db0",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (3).png": {
+    "time": 1746826864000,
+    "uuid": "9bc92077-5a39-46e9-bbca-b70189822e06",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (4).png": {
+    "time": 1746826864000,
+    "uuid": "5fc6c02c-d1ec-4478-8931-4ab6355f56e8",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (5).png": {
+    "time": 1746826864000,
+    "uuid": "e1548176-c7ce-4ca0-b719-8d8551b9cebb",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (6).png": {
+    "time": 1746826864000,
+    "uuid": "b38a70b8-d9f3-411d-9e20-53af21548811",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (7).png": {
+    "time": 1746826864000,
+    "uuid": "b8a6dbe5-0e0a-4fd0-84a3-7d283faf93f7",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (8).png": {
+    "time": 1746826864000,
+    "uuid": "c61d8aed-abd1-4db3-b60f-953aa056c43f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (9).png": {
+    "time": 1746826864000,
+    "uuid": "e0c0b121-f365-408c-a71e-419b5222a82f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star.png": {
+    "time": 1746826864000,
+    "uuid": "2d7be768-08e2-45e4-9f5b-194e812a5240",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/tab.png": {
+    "time": 1746826864000,
+    "uuid": "943a4f8d-b334-4693-b708-d2b3767d947a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/watermelon (2).png": {
+    "time": 1746826864000,
+    "uuid": "af03274d-17ad-4ca1-91aa-e53ca126a1d7",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/watermelon.png": {
+    "time": 1746826864000,
+    "uuid": "6242839e-d1ad-46cb-bef9-73e0cd5d4e13",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits/apple.png": {
+    "time": 1746826864000,
+    "uuid": "42629d45-957b-422e-80cb-fc53e331f386",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits/caramel.png": {
+    "time": 1746826864000,
+    "uuid": "d70234de-dd18-4188-b183-2e490afbe2f3",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits/clock.png": {
+    "time": 1746826864000,
+    "uuid": "c761a68f-2a13-4279-b655-6591af984a46",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits/default.png": {
+    "time": 1746826864000,
+    "uuid": "61108908-cd94-4ef0-bad1-09ec13cfaff8",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits/peach.png": {
+    "time": 1746826864000,
+    "uuid": "29ba16e9-0264-4946-9cce-4ffa5a6c2b7e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits/pear.png": {
+    "time": 1746826864000,
+    "uuid": "6b3fdccd-d4dc-490f-9e94-7fb763dd8852",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits/pomegranate.png": {
+    "time": 1746826864000,
+    "uuid": "d51f0389-0f18-4d72-ae63-b0edbaeb1878",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits/qrapes.png": {
+    "time": 1746826864000,
+    "uuid": "a4d7e9ee-3d72-4c21-9fc3-7a15d8c50f6b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits/watermelon.png": {
+    "time": 1746826864000,
+    "uuid": "e8b48c5b-e9b8-405f-98f1-c6f966a5fb4d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Font/LilitaOne-Regular.ttf": {
+    "time": 1746826864000,
+    "uuid": "c5b668b6-f1e2-41b9-9627-5ef7f685890d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Font/Rowdies-Light.ttf": {
+    "time": 1746826864000,
+    "uuid": "03df9269-24f0-4ae6-9628-59df38d53501",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Font/Rowdies-Regular.ttf": {
+    "time": 1746826864000,
+    "uuid": "7ea46c98-5c35-4276-ab98-6356c7a4f497",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Image/3.png": {
+    "time": 1746826864000,
+    "uuid": "3318c4ac-7c81-4fca-8a9b-cfdd88b5241c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Image/4.png": {
+    "time": 1746826864000,
+    "uuid": "abfe1a2b-a81a-4cb0-b1ea-cc39ddfc6f77",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Image/6.png": {
+    "time": 1746826864000,
+    "uuid": "08e05d1a-53fb-4a53-9b44-066e125f9cd0",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Image/brg.png": {
+    "time": 1746826864000,
+    "uuid": "ffc7edc1-2a57-4384-bca9-1b26409b4e14",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Image/cup.png": {
+    "time": 1746826864000,
+    "uuid": "612deed0-162e-4375-bb9e-3eb18c5ae49c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Image/pause_bt_1.png": {
+    "time": 1746826864000,
+    "uuid": "0cd802cd-b786-48ac-a5c1-ad1523e4c46c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Image/pause_bt_2.png": {
+    "time": 1746826864000,
+    "uuid": "bbc5b79f-cb78-409a-8483-a4f750fe8578",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Image/scroll.png": {
+    "time": 1746826864000,
+    "uuid": "ff4a054c-11d0-4443-919b-e3b654c487d1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimSplash.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimationGameOver.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimBoom.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimationBooster.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimationFruit.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimationGift.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimationHammer.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimationPointer.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimationHidden.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimationLoad.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/AnimationScore.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/animExplosion.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/logo.atlas.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/logo.skel.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/award.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/bgm.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/appear.wav.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/button.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/click-ball.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/explosion.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/hammer.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/lv failed.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/notice.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/tick.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/slide.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/spin.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Font/LilitaOne-Regular.ttf.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Audio/win.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/PreloadCircle.png.meta": {
+    "time": 1747066989026.402
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/PreloadSpinner.png.meta": {
+    "time": 1747066989043.8123
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/logo.png.meta": {
+    "time": 1747066989044.4985
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Background.png.meta": {
+    "time": 1747066989044.689
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/bar.png.meta": {
+    "time": 1747066989063.0679
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/btn-close.png.meta": {
+    "time": 1747066989063.7075
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Logo.png.meta": {
+    "time": 1747066989065.9092
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/btn-close_.png.meta": {
+    "time": 1747066989066.6135
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button-right.png.meta": {
+    "time": 1747066989088.3752
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button-left.png.meta": {
+    "time": 1747066989088.9575
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/count_down_o.png.meta": {
+    "time": 1747066989089.4436
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/circlewhite.png.meta": {
+    "time": 1747066989089.617
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/empty.png.meta": {
+    "time": 1747066989113.0662
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/new-BG.png.meta": {
+    "time": 1747066989123.284
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/emtyplay.png.meta": {
+    "time": 1747066989125.427
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/gift.png.meta": {
+    "time": 1747066989133.6787
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/bgdoc.png.meta": {
+    "time": 1747066989135.615
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/white.png.meta": {
+    "time": 1747066989166.3623
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/whitebg.jpg.meta": {
+    "time": 1747066989167.9587
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/ItemLeaderboard.prefab.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Leaderboard.prefab.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Prefab/AnimationScore.prefab.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/x2.png.meta": {
+    "time": 1747066989181.531
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Prefab/Cell.prefab.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Prefab/Explosion.prefab.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Prefab/Splash.prefab.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Scene/Entry.scene.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Scene/Begin.scene.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Scene/Game.scene.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e1.png.meta": {
+    "time": 1747066989335.061
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e10.png.meta": {
+    "time": 1747066989335.2383
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/texture-0.png.meta": {
+    "time": 1747066989371.6077
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e11.png.meta": {
+    "time": 1747066989402.8604
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e13.png.meta": {
+    "time": 1747066989404.138
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/texture-1.png.meta": {
+    "time": 1747066989404.4365
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e12.png.meta": {
+    "time": 1747066989460.217
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e14.png.meta": {
+    "time": 1747066989489.375
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e16.png.meta": {
+    "time": 1747066989490.0698
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e17.png.meta": {
+    "time": 1747066989490.3616
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e15.png.meta": {
+    "time": 1747066989539.859
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e18.png.meta": {
+    "time": 1747066989568.4595
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e19.png.meta": {
+    "time": 1747066989568.9397
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e2.png.meta": {
+    "time": 1747066989569.1035
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e20.png.meta": {
+    "time": 1747066989617.3445
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e21.png.meta": {
+    "time": 1747066989645.7944
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e23.png.meta": {
+    "time": 1747066989646.271
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e25.png.meta": {
+    "time": 1747066989646.886
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e22.png.meta": {
+    "time": 1747066989695.884
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e26.png.meta": {
+    "time": 1747066989724.5715
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e28.png.meta": {
+    "time": 1747066989724.918
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e27.png.meta": {
+    "time": 1747066989725.207
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e29.png.meta": {
+    "time": 1747066989772.8145
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e3.png.meta": {
+    "time": 1747066989773.2227
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e30.png.meta": {
+    "time": 1747066989808.4324
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e4.png.meta": {
+    "time": 1747066989808.6191
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e5.png.meta": {
+    "time": 1747066989850.3584
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e6.png.meta": {
+    "time": 1747066989851.6582
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e7.png.meta": {
+    "time": 1747066989852.2612
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e8.png.meta": {
+    "time": 1747066989875.279
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Explosion/e9.png.meta": {
+    "time": 1747066989876.2627
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/Tutorial/1.png.meta": {
+    "time": 1747066989882.8926
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/boards/1.png.meta": {
+    "time": 1747066989891.6914
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/boards/2.png.meta": {
+    "time": 1747066989894.8057
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/boards/3.png.meta": {
+    "time": 1747066989907.8948
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/boards/5.png.meta": {
+    "time": 1747066989914.6067
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/boards/4.png.meta": {
+    "time": 1747066989918.6724
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/boards/6.png.meta": {
+    "time": 1747066989923.8003
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/boards/emtyplay-2.png.meta": {
+    "time": 1747066989927.0488
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/bg.png.meta": {
+    "time": 1747066989931.1584
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/boards/emtyplay.png.meta": {
+    "time": 1747066989932.8118
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/btn-boom.png.meta": {
+    "time": 1747066989935.002
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/btn-close.png.meta": {
+    "time": 1747066989943.9905
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/btn-hammer.png.meta": {
+    "time": 1747066989946.754
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/btn-home.png.meta": {
+    "time": 1747066989956.109
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/btn-play.png.meta": {
+    "time": 1747066989957.784
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/btn-return-2.png.meta": {
+    "time": 1747066989958.565
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/btn-return.png.meta": {
+    "time": 1747066989968.2644
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/btn-setting.png.meta": {
+    "time": 1747066989974.9756
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/circlewhite.png.meta": {
+    "time": 1747066989975.9934
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/cell.png.meta": {
+    "time": 1747066989976.4065
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/game.png.meta": {
+    "time": 1747066989977.1162
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/goal.png.meta": {
+    "time": 1747066989988.1597
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/gold.png.meta": {
+    "time": 1747066989991.2046
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/item-boom.png.meta": {
+    "time": 1747066989991.713
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/off.png.meta": {
+    "time": 1747066989993.1633
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/hammer.png.meta": {
+    "time": 1747066989993.7246
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/on.png.meta": {
+    "time": 1747066990006.1882
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/option.png.meta": {
+    "time": 1747066990007.2888
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/play-blue.png.meta": {
+    "time": 1747066990011.0925
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/pointer-2.png.meta": {
+    "time": 1747066990011.2654
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/pointer.png.meta": {
+    "time": 1747066990015.206
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (10).png.meta": {
+    "time": 1747066990026.1438
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (11).png.meta": {
+    "time": 1747066990037.1306
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (12).png.meta": {
+    "time": 1747066990037.3083
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (2).png.meta": {
+    "time": 1747066990037.7468
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (3).png.meta": {
+    "time": 1747066990054.323
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (4).png.meta": {
+    "time": 1747066990071.2856
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (5).png.meta": {
+    "time": 1747066990071.4766
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (7).png.meta": {
+    "time": 1747066990072.0117
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (6).png.meta": {
+    "time": 1747066990072.2197
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (8).png.meta": {
+    "time": 1747066990084.985
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star (9).png.meta": {
+    "time": 1747066990092.8806
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/watermelon (2).png.meta": {
+    "time": 1747066990093.0642
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/star.png.meta": {
+    "time": 1747066990093.527
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/tab.png.meta": {
+    "time": 1747066990102.435
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/button/watermelon.png.meta": {
+    "time": 1747066990107.1475
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits/apple.png.meta": {
+    "time": 1747066990110.4285
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits/caramel.png.meta": {
+    "time": 1747066990111.0442
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits/clock.png.meta": {
+    "time": 1747066990111.5386
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits/default.png.meta": {
+    "time": 1747066990120.1267
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits/pear.png.meta": {
+    "time": 1747066990126.4849
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits/pomegranate.png.meta": {
+    "time": 1747066990127.0854
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits/peach.png.meta": {
+    "time": 1747066990127.4343
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Font/LilitaOne-Regular.ttf.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Font/Rowdies-Light.ttf.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits/qrapes.png.meta": {
+    "time": 1747066990130.403
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Font/Rowdies-Regular.ttf.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Image/fruits/watermelon.png.meta": {
+    "time": 1747066990137.5186
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Image/4.png.meta": {
+    "time": 1747066990147.191
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Image/3.png.meta": {
+    "time": 1747066990148.2622
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Image/6.png.meta": {
+    "time": 1747066990148.4448
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Image/brg.png.meta": {
+    "time": 1747066990149.713
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Image/scroll.png.meta": {
+    "time": 1747066990155.5027
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Image/cup.png.meta": {
+    "time": 1747066990155.6772
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Image/pause_bt_2.png.meta": {
+    "time": 1747066990159.0918
+  },
+  "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Leaderboard/Image/pause_bt_1.png.meta": {
+    "time": 1747066990159.31
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation": {
+    "time": 1747017324000,
+    "uuid": "258610ea-7aca-4332-9b0d-42fa0e0ef077",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio": {
+    "time": 1747017324000,
+    "uuid": "cbc4cbe9-4898-49a8-9bc5-3b8a76b3a5f4",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Font": {
+    "time": 1747017344000,
+    "uuid": "2f0f2e14-a3e2-42a9-9351-399833b63697",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image": {
+    "time": 1747017344000,
+    "uuid": "b222617a-f97d-421d-838c-d847ba173dbe",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard": {
+    "time": 1747017324000,
+    "uuid": "0d1060af-307c-4e73-807c-41987705c1a0",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Prefab": {
+    "time": 1747017312000,
+    "uuid": "97221743-831e-485a-9d2b-707ba093bfd9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Scene": {
+    "time": 1747017324000,
+    "uuid": "692f9715-b1f7-4684-a4b7-568a5adcb897",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script": {
+    "time": 1747017344000,
+    "uuid": "4016c4ec-7a21-49a4-871e-12a40a2d4eff",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion": {
+    "time": 1747017334000,
+    "uuid": "5c3e86f6-59cd-4ae9-a8f6-072a16966723",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Tutorial": {
+    "time": 1747017344000,
+    "uuid": "6f6ae7b0-ce14-4e31-ab3b-0d2d2f1a77e0",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards": {
+    "time": 1747017324000,
+    "uuid": "48a323f7-8557-4fe5-93ef-672b73fc971e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button": {
+    "time": 1747017344000,
+    "uuid": "3f9701d1-b51b-4830-98b2-1a2e1ffff4fb",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits": {
+    "time": 1747017324000,
+    "uuid": "2a44985e-2e38-446b-891a-88806b656d0c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Font": {
+    "time": 1747017324000,
+    "uuid": "84243761-60d1-4d71-ace2-05cb4b17dd25",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image": {
+    "time": 1747017324000,
+    "uuid": "891c1e01-3c1e-4443-bc27-f4e20db9d4c9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Script": {
+    "time": 1747017324000,
+    "uuid": "3f22a182-4197-465e-aff1-18a27a653f2e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameCenter": {
+    "time": 1747017344000,
+    "uuid": "a590144f-5ebc-4fca-9cd0-3d00e72791d6",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameManager": {
+    "time": 1747017344000,
+    "uuid": "ff10dbbd-413f-4c10-aac3-d82c22304c06",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/PrefabControl": {
+    "time": 1747017344000,
+    "uuid": "ebe07f85-1b88-4df8-ab91-a5889bef2ee3",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/Utils": {
+    "time": 1747017344000,
+    "uuid": "9ea0deb2-3ef4-47b8-8345-da8d62d9bac3",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/AudioController.ts": {
+    "time": 1746826864000,
+    "uuid": "0398e912-870e-4456-9fc9-aa5985f1f80d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/EntryManager.ts": {
+    "time": 1747067135638.2751,
+    "uuid": "09a9f75c-02e3-4111-a297-29254c9cb696",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/MenuManager.ts": {
+    "time": 1746826864000,
+    "uuid": "9a9b98dc-5d0a-493f-b67e-adf5491cf2fd",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/NodeModal.ts": {
+    "time": 1746826864000,
+    "uuid": "4b59bb15-8c48-4c3d-9c36-16938939278c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/PoolManager.ts": {
+    "time": 1746826864000,
+    "uuid": "f66eb0d3-bb99-4009-a7f7-80ad919deffb",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/ScoreManager.ts": {
+    "time": 1746826864000,
+    "uuid": "5a93f7bd-4c31-41c9-8918-5be7e902f4b9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/Splash.ts": {
+    "time": 1746826864000,
+    "uuid": "5c2748f6-3ccb-4529-bdc4-0e247b978ac9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/Tutorial.ts": {
+    "time": 1746826864000,
+    "uuid": "cea36a55-2f16-4dbe-90cb-b1b4efee36d5",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Script/ItemLeaderboard.ts": {
+    "time": 1746826864000,
+    "uuid": "6da02de4-5946-4895-990f-fcb11518fdfe",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Script/LeaderboardHandle.ts": {
+    "time": 1746826864000,
+    "uuid": "ef9cbada-588b-4e7a-bfab-2fcdec15b1f6",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameCenter/GameCenterController.ts": {
+    "time": 1747067089798.5303,
+    "uuid": "15b79103-8b84-4b54-b005-a9a101018351",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameCenter/StoreAPI.ts": {
+    "time": 1746826864000,
+    "uuid": "484a6452-cdd7-42f7-8a21-599997087971",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameManager/GameController.ts": {
+    "time": 1747067563244.592,
+    "uuid": "37702071-4d6b-4bea-9add-790f0096d798",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameManager/GameView.ts": {
+    "time": 1746826864000,
+    "uuid": "12a1e561-4569-45b2-b707-0d76690c99cc",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameManager/MatrixManager.ts": {
+    "time": 1746826864000,
+    "uuid": "9cd101f6-6c1b-48dc-a0a7-3e8d0f52f02d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/PrefabControl/AnimationScore.ts": {
+    "time": 1746826864000,
+    "uuid": "a44aa2ce-c8be-4eaa-b39d-6ef29edb6ba7",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/PrefabControl/Cell.ts": {
+    "time": 1746826864000,
+    "uuid": "d5f02a34-310f-45f9-9cd7-23d23b0608c8",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/PrefabControl/LevelBar.ts": {
+    "time": 1746826864000,
+    "uuid": "c028f6c8-f2bd-4d75-8eae-e5b7ed26bbc2",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/Utils/Constants.ts": {
+    "time": 1746826864000,
+    "uuid": "47d00a45-9db8-4786-b015-025453d7da6c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/Utils/DataGame.ts": {
+    "time": 1746826864000,
+    "uuid": "bbe0ae36-1a1f-4405-ae9a-b84a7fe88b9c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/Utils/DataTypes.ts": {
+    "time": 1746826864000,
+    "uuid": "57b0f6a6-63be-4759-9352-6dc973c0fd3a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Font.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Prefab.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Scene.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Tutorial.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Font.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Script.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameCenter.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameManager.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/PrefabControl.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/Utils.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/AudioController.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/EntryManager.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/MenuManager.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/NodeModal.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/PoolManager.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/ScoreManager.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/Splash.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/Tutorial.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Script/ItemLeaderboard.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Script/LeaderboardHandle.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameCenter/GameCenterController.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameCenter/StoreAPI.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameManager/GameController.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameManager/GameView.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameManager/MatrixManager.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/PrefabControl/AnimationScore.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/PrefabControl/Cell.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/PrefabControl/LevelBar.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/Utils/Constants.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/Utils/DataGame.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/Utils/DataTypes.ts.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimBoom.anim": {
+    "time": 1746826864000,
+    "uuid": "12cd87d7-929d-4e5d-b7c7-582e63e18e0c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimSplash.anim": {
+    "time": 1746826864000,
+    "uuid": "72901f5b-7477-4584-a93a-79bb34083dd6",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationBooster.anim": {
+    "time": 1746826864000,
+    "uuid": "1cf249fd-7b6b-4395-bf77-50fe9799fb8b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationFruit.anim": {
+    "time": 1746826864000,
+    "uuid": "3d56e42e-2268-443c-9497-9f752069e9f8",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationGameOver.anim": {
+    "time": 1746826864000,
+    "uuid": "74f730a9-b225-417e-979c-843e36a33d5b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationGift.anim": {
+    "time": 1746826864000,
+    "uuid": "5ff6ab2a-b90b-4499-b737-5d937686791b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationHammer.anim": {
+    "time": 1746826864000,
+    "uuid": "3f6f1175-7fc3-4dc9-a4a6-71ce3b33ac56",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationHidden.anim": {
+    "time": 1746826864000,
+    "uuid": "a2854c4f-27ff-4681-8601-b50a67a5dc4e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationLoad.anim": {
+    "time": 1746826864000,
+    "uuid": "e45f4a07-aade-4a91-a801-603ea32155ca",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationPointer.anim": {
+    "time": 1746826864000,
+    "uuid": "6c6df3d3-0971-4316-843b-23dbbc35ec19",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationScore.anim": {
+    "time": 1746826864000,
+    "uuid": "bd0ae143-ab1b-42bc-aef8-645e6ca6000c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/animExplosion.anim": {
+    "time": 1746826864000,
+    "uuid": "31e87c98-b9b6-4115-a9e7-43f45d29d4d2",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/logo.atlas": {
+    "time": 1746826864000,
+    "uuid": "da291062-2ed5-4a18-814c-4141f9da22be",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/logo.png": {
+    "time": 1746826864000,
+    "uuid": "a686401c-84b9-41ee-89da-5585d2b6a0bb",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/logo.skel": {
+    "time": 1746826864000,
+    "uuid": "8de58bfd-90c8-448f-a0dc-dcafddeb9b84",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/appear.wav": {
+    "time": 1746826864000,
+    "uuid": "267d6e3c-e7ad-465a-b672-baea72fa753b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/award.mp3": {
+    "time": 1746826864000,
+    "uuid": "860bfc93-bd27-4b75-b66f-5da37e951e8e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/bgm.mp3": {
+    "time": 1746826864000,
+    "uuid": "ac9ce704-2494-4e95-9ede-af67f5cede09",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/button.mp3": {
+    "time": 1746826864000,
+    "uuid": "87cbf05d-d9c1-4669-847d-9f026b23c39f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/click-ball.mp3": {
+    "time": 1746826864000,
+    "uuid": "c0aeae74-4c42-4933-9642-4528926b48b1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/explosion.mp3": {
+    "time": 1746826864000,
+    "uuid": "c7bf7b34-8552-42c1-a716-630a142742d0",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/hammer.mp3": {
+    "time": 1746826864000,
+    "uuid": "504bafbd-4709-4727-9af6-985b089264c0",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/lv failed.mp3": {
+    "time": 1746826864000,
+    "uuid": "b556b09f-11a1-41f9-847b-5ffe2fc1c651",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/notice.mp3": {
+    "time": 1746826864000,
+    "uuid": "7134270a-b635-45c4-8f04-da8171add3a4",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/slide.mp3": {
+    "time": 1746826864000,
+    "uuid": "5602f538-526e-4710-a6f8-a46a5eb4f00b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/spin.mp3": {
+    "time": 1746826864000,
+    "uuid": "20eadd0f-eccf-4bd3-be47-6c2f855242af",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/tick.mp3": {
+    "time": 1746826864000,
+    "uuid": "30064b0f-adcc-4343-a55f-c3281f952a28",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/win.mp3": {
+    "time": 1746826864000,
+    "uuid": "028cf2ca-b169-447e-b3bd-6e6dad9e745e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Font/LilitaOne-Regular.ttf": {
+    "time": 1746826864000,
+    "uuid": "2f9c716b-aaba-4299-a21b-7a68394a668e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Background.png": {
+    "time": 1746826864000,
+    "uuid": "c5530135-84e1-4855-97a9-27201d165b61",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Logo.png": {
+    "time": 1746826864000,
+    "uuid": "5a353323-fd8d-48d4-a2b6-9b56727a3884",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/PreloadCircle.png": {
+    "time": 1746826864000,
+    "uuid": "49ad42f5-0002-401b-ac45-eba405b156f4",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/PreloadSpinner.png": {
+    "time": 1746826864000,
+    "uuid": "895d2e15-7ec6-48a6-9e72-48bef104d2b4",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/bar.png": {
+    "time": 1746826864000,
+    "uuid": "779d425e-df1d-4a51-9bba-b0ac7f5fedd3",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/bgdoc.png": {
+    "time": 1746826864000,
+    "uuid": "5c9f8f58-ea15-4eac-bb45-9ec38231b7d2",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/btn-close.png": {
+    "time": 1746826864000,
+    "uuid": "b4f48bd8-ce6f-4475-9139-922a3e9e3444",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/btn-close_.png": {
+    "time": 1746826864000,
+    "uuid": "4adb7da4-c1cf-47d5-8fbf-a9e6effc1fc9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button-left.png": {
+    "time": 1746826864000,
+    "uuid": "7a95373e-6373-43a7-9511-68d6019a08b5",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button-right.png": {
+    "time": 1746826864000,
+    "uuid": "92827df7-2644-4d95-a142-514ab5ab6e0b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/circlewhite.png": {
+    "time": 1746826864000,
+    "uuid": "c8e03e6b-3877-4cfd-b075-2bec99a03549",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/count_down_o.png": {
+    "time": 1746826864000,
+    "uuid": "c5900ed4-2b33-4add-9ecb-394f357669fe",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/empty.png": {
+    "time": 1746826864000,
+    "uuid": "e3435007-6cbc-417c-802e-490c0a9b28a4",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/emtyplay.png": {
+    "time": 1746826864000,
+    "uuid": "5b030db7-3b3a-4f7a-b461-ac059b218229",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/gift.png": {
+    "time": 1746826864000,
+    "uuid": "398f4d4b-1905-455b-8508-2bda0bdb6822",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/new-BG.png": {
+    "time": 1746826864000,
+    "uuid": "54539bda-eb27-4062-9a15-c041bb65f6ae",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/texture-0.png": {
+    "time": 1746826864000,
+    "uuid": "77a8d32f-72a0-4ed7-b878-139de4ba4c4a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/texture-1.png": {
+    "time": 1746826864000,
+    "uuid": "67ec1f05-896e-4b28-8a10-e605955aba8c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/white.png": {
+    "time": 1746826864000,
+    "uuid": "7ab22a06-0051-4312-9186-4a10d1cde47a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/whitebg.jpg": {
+    "time": 1746826864000,
+    "uuid": "242fd8c1-b110-47d8-88cc-7b5bd3a7e74b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/x2.png": {
+    "time": 1746826864000,
+    "uuid": "a630e575-b65f-4836-a07a-2279695013bf",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/ItemLeaderboard.prefab": {
+    "time": 1746826864000,
+    "uuid": "931b182a-4b2d-49b0-bfbd-a0392d7b99b7",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Leaderboard.prefab": {
+    "time": 1747067646272.3308,
+    "uuid": "91b32a2f-b4fc-4a80-906a-de5f8dffeb1b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Prefab/AnimationScore.prefab": {
+    "time": 1746826864000,
+    "uuid": "45ce3917-1b52-45f4-a150-3c3f225ddfeb",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Prefab/Cell.prefab": {
+    "time": 1746826864000,
+    "uuid": "d60a7c09-cbf8-4364-99d6-6c405fbc6d8d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Prefab/Explosion.prefab": {
+    "time": 1746826864000,
+    "uuid": "13de06fa-1ac8-4348-87b8-5956efeb8214",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Prefab/Splash.prefab": {
+    "time": 1746826864000,
+    "uuid": "4b20721a-c933-499e-8e7b-06dc2a22b614",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Scene/Begin.scene": {
+    "time": 1746826864000,
+    "uuid": "0d6533fa-2082-47e6-902b-f0cce648330f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Scene/Entry.scene": {
+    "time": 1746826864000,
+    "uuid": "347446cc-837f-42c6-8cc0-44905c1bff0b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Scene/Game.scene": {
+    "time": 1747067647311.164,
+    "uuid": "447f0f3b-e9f5-4447-a049-ec2785ddb118",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e1.png": {
+    "time": 1746826864000,
+    "uuid": "78b1f201-933e-4263-abfe-7b8f2b03e805",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e10.png": {
+    "time": 1746826864000,
+    "uuid": "4874755d-eb42-49ea-a259-d78a0b47a072",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e11.png": {
+    "time": 1746826864000,
+    "uuid": "2a2f67a0-eb4a-410b-b8e4-45fe5a406015",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e12.png": {
+    "time": 1746826864000,
+    "uuid": "06fde4aa-dff7-472b-883a-c6fafb5c79b2",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e13.png": {
+    "time": 1746826864000,
+    "uuid": "11157760-6fd4-4ffe-b03f-8b8f2acb610a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e14.png": {
+    "time": 1746826864000,
+    "uuid": "15bd7c86-fa34-4f56-b4f8-ecb54c4f1ea3",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e15.png": {
+    "time": 1746826864000,
+    "uuid": "79c7deac-68d2-4b5c-b585-65912334a47d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e16.png": {
+    "time": 1746826864000,
+    "uuid": "5bd416a1-5298-484b-8ef5-496c6ab7745b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e17.png": {
+    "time": 1746826864000,
+    "uuid": "bd148c57-0a4e-4352-baeb-f4c9476da9eb",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e18.png": {
+    "time": 1746826864000,
+    "uuid": "8da9b5a8-ed1c-4408-9a16-a4ae300eae1e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e19.png": {
+    "time": 1746826864000,
+    "uuid": "b57009c0-a746-4059-9fad-310d1db3012f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e2.png": {
+    "time": 1746826864000,
+    "uuid": "19a33cd6-f13a-4541-96ad-f7b8906f4a56",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e20.png": {
+    "time": 1746826864000,
+    "uuid": "23791b74-2653-4000-9f49-813207103683",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e21.png": {
+    "time": 1746826864000,
+    "uuid": "0da70962-3344-40d2-9afa-22428fc4b614",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e22.png": {
+    "time": 1746826864000,
+    "uuid": "56472503-b211-4c80-be2a-1dba4452e7de",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e23.png": {
+    "time": 1746826864000,
+    "uuid": "9ab17f69-1bc7-4e67-98aa-93ecfc080001",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e25.png": {
+    "time": 1746826864000,
+    "uuid": "a762edc6-3a34-46e5-b358-e38377e47d1a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e26.png": {
+    "time": 1746826864000,
+    "uuid": "2ec17f94-a9cb-4741-a5a6-8e86287a827a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e27.png": {
+    "time": 1746826864000,
+    "uuid": "d20df590-674e-4fbe-a080-5b7d33d16c3d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e28.png": {
+    "time": 1746826864000,
+    "uuid": "2732152b-6d3c-45e4-99d1-6f16f5afa4aa",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e29.png": {
+    "time": 1746826864000,
+    "uuid": "6ea27e19-3dc5-45f5-a08f-d6179cccbf08",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e3.png": {
+    "time": 1746826864000,
+    "uuid": "0f60be5e-27f1-4e3d-96c2-c09fcf527995",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e30.png": {
+    "time": 1746826864000,
+    "uuid": "bb581113-6d9c-4ab3-8b27-99953e4a2ada",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e4.png": {
+    "time": 1746826864000,
+    "uuid": "adc1e644-e8b7-40ae-91fa-e0d8ef09b904",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e5.png": {
+    "time": 1746826864000,
+    "uuid": "58041d7a-f309-41d3-b82f-c2159044952e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e6.png": {
+    "time": 1746826864000,
+    "uuid": "a6a6116d-f482-4569-bf30-767199128389",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e7.png": {
+    "time": 1746826864000,
+    "uuid": "5da7fa17-3dca-495f-a3cd-ca5168288264",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e8.png": {
+    "time": 1746826864000,
+    "uuid": "81333761-1fc5-4f36-85fb-00027457b2bf",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e9.png": {
+    "time": 1746826864000,
+    "uuid": "7e0eff12-b6c9-46ee-a496-5219dbb9f6d4",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Tutorial/1.png": {
+    "time": 1746826864000,
+    "uuid": "2b4d7959-6206-4711-8499-ec31391bc8bf",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/1.png": {
+    "time": 1746826864000,
+    "uuid": "10ee1323-5d96-4437-aa86-0450991b76dd",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/2.png": {
+    "time": 1746826864000,
+    "uuid": "9c5b0d10-18d8-4130-8490-79c7c0e74fe1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/3.png": {
+    "time": 1746826864000,
+    "uuid": "0f463ea5-ef93-4467-97a4-5d145e50baac",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/4.png": {
+    "time": 1746826864000,
+    "uuid": "d218959a-f2e0-4d56-9979-211b87da93c1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/5.png": {
+    "time": 1746826864000,
+    "uuid": "43ae93b3-489b-4731-8ea4-591a8c5896b6",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/6.png": {
+    "time": 1746826864000,
+    "uuid": "1105b069-ed24-4c3e-9e8c-097b2934ded0",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/emtyplay-2.png": {
+    "time": 1746826864000,
+    "uuid": "6327e8dc-4b9d-4273-8773-292f87ebc63f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/emtyplay.png": {
+    "time": 1746826864000,
+    "uuid": "33c9e8f4-9fb1-4cda-b8c7-9944fb043d06",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/bg.png": {
+    "time": 1746826864000,
+    "uuid": "17321d8d-603e-4936-978a-34f438fe7b69",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-boom.png": {
+    "time": 1746826864000,
+    "uuid": "8dbd47b4-8fe4-4a50-8140-5367ded9aba2",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-close.png": {
+    "time": 1746826864000,
+    "uuid": "f47be966-8727-449c-bbb6-affa24aefd3d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-hammer.png": {
+    "time": 1746826864000,
+    "uuid": "f31105c3-6c88-4347-9ca8-cf4944528a2c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-home.png": {
+    "time": 1746826864000,
+    "uuid": "71a3fba9-10c3-4ff7-8c46-d8755eb35658",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-play.png": {
+    "time": 1746826864000,
+    "uuid": "2290a7c8-f687-46f6-bdd1-134a4a3037b5",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-return-2.png": {
+    "time": 1746826864000,
+    "uuid": "b3e309a9-52b6-491b-9fc3-f619051e510e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-return.png": {
+    "time": 1746826864000,
+    "uuid": "bcc86aa3-7be0-45f8-b0c8-661999463acf",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-setting.png": {
+    "time": 1746826864000,
+    "uuid": "2e1ffa36-ee43-44f6-a649-eaee4a3d6997",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/cell.png": {
+    "time": 1746826864000,
+    "uuid": "5722f7d6-e473-4e30-9a8c-e98748ccc7f8",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/circlewhite.png": {
+    "time": 1746826864000,
+    "uuid": "2733ce2b-2175-4a73-b07c-950191438d1c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/game.png": {
+    "time": 1746826864000,
+    "uuid": "a33db294-0452-4ccd-8244-9c8ff38e8418",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/goal.png": {
+    "time": 1746826864000,
+    "uuid": "9e859009-53f1-40e4-9173-d353ab347988",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/gold.png": {
+    "time": 1746826864000,
+    "uuid": "e34014b9-597d-4aad-97d2-8d972aa04dc5",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/hammer.png": {
+    "time": 1746826864000,
+    "uuid": "ec864e7a-bbd7-463e-a13b-24ce1add5511",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/item-boom.png": {
+    "time": 1746826864000,
+    "uuid": "889aead6-957d-486c-aedd-f5c57e6c775a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/off.png": {
+    "time": 1746826864000,
+    "uuid": "e32d560a-ae7f-41bc-851b-67decdfbd78a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/on.png": {
+    "time": 1746826864000,
+    "uuid": "43c25bc2-10df-40a7-aa3d-c095956d9277",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/option.png": {
+    "time": 1746826864000,
+    "uuid": "11a40d72-cbff-4ad8-bc2d-caa4dab6f9f6",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/play-blue.png": {
+    "time": 1746826864000,
+    "uuid": "3a00f600-ca46-4926-ac76-98eb4a055d53",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/pointer-2.png": {
+    "time": 1746826864000,
+    "uuid": "360ad2cd-28ce-47dc-af15-0dd42b7273d6",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/pointer.png": {
+    "time": 1746826864000,
+    "uuid": "da0a5735-0eb8-4bd1-9995-879b2c261827",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (10).png": {
+    "time": 1746826864000,
+    "uuid": "cf8a3b95-1fad-4f20-80e9-387418136abb",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (11).png": {
+    "time": 1746826864000,
+    "uuid": "fe09f3fc-3a90-445b-b7a9-26b4a7b23e68",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (12).png": {
+    "time": 1746826864000,
+    "uuid": "66fda394-db1f-455e-9537-6c6b835ddccf",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (2).png": {
+    "time": 1746826864000,
+    "uuid": "a76cee73-38a6-49f6-b930-7599a1c30db0",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (3).png": {
+    "time": 1746826864000,
+    "uuid": "9bc92077-5a39-46e9-bbca-b70189822e06",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (4).png": {
+    "time": 1746826864000,
+    "uuid": "5fc6c02c-d1ec-4478-8931-4ab6355f56e8",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (5).png": {
+    "time": 1746826864000,
+    "uuid": "e1548176-c7ce-4ca0-b719-8d8551b9cebb",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (6).png": {
+    "time": 1746826864000,
+    "uuid": "b38a70b8-d9f3-411d-9e20-53af21548811",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (7).png": {
+    "time": 1746826864000,
+    "uuid": "b8a6dbe5-0e0a-4fd0-84a3-7d283faf93f7",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (8).png": {
+    "time": 1746826864000,
+    "uuid": "c61d8aed-abd1-4db3-b60f-953aa056c43f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (9).png": {
+    "time": 1746826864000,
+    "uuid": "e0c0b121-f365-408c-a71e-419b5222a82f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star.png": {
+    "time": 1746826864000,
+    "uuid": "2d7be768-08e2-45e4-9f5b-194e812a5240",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/tab.png": {
+    "time": 1746826864000,
+    "uuid": "943a4f8d-b334-4693-b708-d2b3767d947a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/watermelon (2).png": {
+    "time": 1746826864000,
+    "uuid": "af03274d-17ad-4ca1-91aa-e53ca126a1d7",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/watermelon.png": {
+    "time": 1746826864000,
+    "uuid": "6242839e-d1ad-46cb-bef9-73e0cd5d4e13",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/apple.png": {
+    "time": 1746826864000,
+    "uuid": "42629d45-957b-422e-80cb-fc53e331f386",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/caramel.png": {
+    "time": 1746826864000,
+    "uuid": "d70234de-dd18-4188-b183-2e490afbe2f3",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/clock.png": {
+    "time": 1746826864000,
+    "uuid": "c761a68f-2a13-4279-b655-6591af984a46",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/default.png": {
+    "time": 1746826864000,
+    "uuid": "61108908-cd94-4ef0-bad1-09ec13cfaff8",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/peach.png": {
+    "time": 1746826864000,
+    "uuid": "29ba16e9-0264-4946-9cce-4ffa5a6c2b7e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/pear.png": {
+    "time": 1746826864000,
+    "uuid": "6b3fdccd-d4dc-490f-9e94-7fb763dd8852",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/pomegranate.png": {
+    "time": 1746826864000,
+    "uuid": "d51f0389-0f18-4d72-ae63-b0edbaeb1878",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/qrapes.png": {
+    "time": 1746826864000,
+    "uuid": "a4d7e9ee-3d72-4c21-9fc3-7a15d8c50f6b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/watermelon.png": {
+    "time": 1746826864000,
+    "uuid": "e8b48c5b-e9b8-405f-98f1-c6f966a5fb4d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Font/LilitaOne-Regular.ttf": {
+    "time": 1746826864000,
+    "uuid": "c5b668b6-f1e2-41b9-9627-5ef7f685890d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Font/Rowdies-Light.ttf": {
+    "time": 1746826864000,
+    "uuid": "03df9269-24f0-4ae6-9628-59df38d53501",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Font/Rowdies-Regular.ttf": {
+    "time": 1746826864000,
+    "uuid": "7ea46c98-5c35-4276-ab98-6356c7a4f497",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/3.png": {
+    "time": 1746826864000,
+    "uuid": "3318c4ac-7c81-4fca-8a9b-cfdd88b5241c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/4.png": {
+    "time": 1746826864000,
+    "uuid": "abfe1a2b-a81a-4cb0-b1ea-cc39ddfc6f77",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/6.png": {
+    "time": 1746826864000,
+    "uuid": "08e05d1a-53fb-4a53-9b44-066e125f9cd0",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/brg.png": {
+    "time": 1746826864000,
+    "uuid": "ffc7edc1-2a57-4384-bca9-1b26409b4e14",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/cup.png": {
+    "time": 1746826864000,
+    "uuid": "612deed0-162e-4375-bb9e-3eb18c5ae49c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/pause_bt_1.png": {
+    "time": 1746826864000,
+    "uuid": "0cd802cd-b786-48ac-a5c1-ad1523e4c46c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/pause_bt_2.png": {
+    "time": 1746826864000,
+    "uuid": "bbc5b79f-cb78-409a-8483-a4f750fe8578",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/scroll.png": {
+    "time": 1746826864000,
+    "uuid": "ff4a054c-11d0-4443-919b-e3b654c487d1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimBoom.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationBooster.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimSplash.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationGameOver.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationFruit.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationGift.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationHammer.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationHidden.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationLoad.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationPointer.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationScore.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/animExplosion.anim.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/logo.atlas.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/logo.skel.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/award.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/appear.wav.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/click-ball.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/bgm.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/button.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/hammer.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/notice.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/lv failed.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/explosion.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/win.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/slide.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/tick.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/spin.mp3.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Font/LilitaOne-Regular.ttf.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/PreloadCircle.png.meta": {
+    "time": 1747066989026.402
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/PreloadSpinner.png.meta": {
+    "time": 1747066989043.8123
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Background.png.meta": {
+    "time": 1747066989044.689
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/bar.png.meta": {
+    "time": 1747066989063.0679
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/logo.png.meta": {
+    "time": 1747066989044.4985
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Logo.png.meta": {
+    "time": 1747066989065.909
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/btn-close.png.meta": {
+    "time": 1747066989063.7075
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/btn-close_.png.meta": {
+    "time": 1747066989066.6135
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button-left.png.meta": {
+    "time": 1747066989088.9575
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/circlewhite.png.meta": {
+    "time": 1747066989089.617
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button-right.png.meta": {
+    "time": 1747066989088.3752
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/count_down_o.png.meta": {
+    "time": 1747066989089.4436
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/empty.png.meta": {
+    "time": 1747066989113.0662
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/emtyplay.png.meta": {
+    "time": 1747066989125.427
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/bgdoc.png.meta": {
+    "time": 1747066989135.615
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/gift.png.meta": {
+    "time": 1747066989133.6787
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/new-BG.png.meta": {
+    "time": 1747066989123.284
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/white.png.meta": {
+    "time": 1747066989166.3623
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/whitebg.jpg.meta": {
+    "time": 1747066989167.9585
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/ItemLeaderboard.prefab.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Leaderboard.prefab.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Prefab/AnimationScore.prefab.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Prefab/Cell.prefab.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Prefab/Explosion.prefab.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Prefab/Splash.prefab.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Scene/Begin.scene.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Scene/Entry.scene.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/x2.png.meta": {
+    "time": 1747066989181.531
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Scene/Game.scene.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e10.png.meta": {
+    "time": 1747066989335.2383
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e1.png.meta": {
+    "time": 1747066989335.061
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e11.png.meta": {
+    "time": 1747066989402.8604
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/texture-1.png.meta": {
+    "time": 1747066989404.4365
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e12.png.meta": {
+    "time": 1747066989460.217
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e13.png.meta": {
+    "time": 1747066989404.138
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/texture-0.png.meta": {
+    "time": 1747066989371.6077
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e14.png.meta": {
+    "time": 1747066989489.375
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e16.png.meta": {
+    "time": 1747066989490.0698
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e15.png.meta": {
+    "time": 1747066989539.859
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e17.png.meta": {
+    "time": 1747066989490.3616
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e18.png.meta": {
+    "time": 1747066989568.4595
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e20.png.meta": {
+    "time": 1747066989617.3447
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e2.png.meta": {
+    "time": 1747066989569.1035
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e19.png.meta": {
+    "time": 1747066989568.9397
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e21.png.meta": {
+    "time": 1747066989645.7944
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e22.png.meta": {
+    "time": 1747066989695.8838
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e23.png.meta": {
+    "time": 1747066989646.2708
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e27.png.meta": {
+    "time": 1747066989725.207
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e25.png.meta": {
+    "time": 1747066989646.886
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e26.png.meta": {
+    "time": 1747066989724.5715
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e3.png.meta": {
+    "time": 1747066989773.2227
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e29.png.meta": {
+    "time": 1747066989772.8145
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e28.png.meta": {
+    "time": 1747066989724.9182
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e30.png.meta": {
+    "time": 1747066989808.4324
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e4.png.meta": {
+    "time": 1747066989808.6191
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e5.png.meta": {
+    "time": 1747066989850.3584
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e6.png.meta": {
+    "time": 1747066989851.6582
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e7.png.meta": {
+    "time": 1747066989852.2612
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e8.png.meta": {
+    "time": 1747066989875.279
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e9.png.meta": {
+    "time": 1747066989876.2627
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Tutorial/1.png.meta": {
+    "time": 1747066989882.8926
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/3.png.meta": {
+    "time": 1747066989907.8948
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/5.png.meta": {
+    "time": 1747066989914.6067
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/4.png.meta": {
+    "time": 1747066989918.6724
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/1.png.meta": {
+    "time": 1747066989891.6914
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/2.png.meta": {
+    "time": 1747066989894.806
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/bg.png.meta": {
+    "time": 1747066989931.1584
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/emtyplay-2.png.meta": {
+    "time": 1747066989927.0488
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/emtyplay.png.meta": {
+    "time": 1747066989932.8118
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/6.png.meta": {
+    "time": 1747066989923.8003
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-boom.png.meta": {
+    "time": 1747066989935.002
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-hammer.png.meta": {
+    "time": 1747066989946.754
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-close.png.meta": {
+    "time": 1747066989943.9905
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-home.png.meta": {
+    "time": 1747066989956.109
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-play.png.meta": {
+    "time": 1747066989957.784
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-return-2.png.meta": {
+    "time": 1747066989958.565
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-return.png.meta": {
+    "time": 1747066989968.2644
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-setting.png.meta": {
+    "time": 1747066989974.9756
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/cell.png.meta": {
+    "time": 1747066989976.4062
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/circlewhite.png.meta": {
+    "time": 1747066989975.9932
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/game.png.meta": {
+    "time": 1747066989977.1165
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/goal.png.meta": {
+    "time": 1747066989988.1597
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/gold.png.meta": {
+    "time": 1747066989991.2046
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/hammer.png.meta": {
+    "time": 1747066989993.7246
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/item-boom.png.meta": {
+    "time": 1747066989991.713
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/off.png.meta": {
+    "time": 1747066989993.1633
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/on.png.meta": {
+    "time": 1747066990006.1882
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/option.png.meta": {
+    "time": 1747066990007.2888
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/play-blue.png.meta": {
+    "time": 1747066990011.0928
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/pointer-2.png.meta": {
+    "time": 1747066990011.2654
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (10).png.meta": {
+    "time": 1747066990026.1438
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/pointer.png.meta": {
+    "time": 1747066990015.206
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (11).png.meta": {
+    "time": 1747066990037.1304
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (12).png.meta": {
+    "time": 1747066990037.3083
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (2).png.meta": {
+    "time": 1747066990037.7466
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (3).png.meta": {
+    "time": 1747066990054.323
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (4).png.meta": {
+    "time": 1747066990071.2856
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (5).png.meta": {
+    "time": 1747066990071.4766
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (6).png.meta": {
+    "time": 1747066990072.2197
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (7).png.meta": {
+    "time": 1747066990072.0117
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (8).png.meta": {
+    "time": 1747066990084.985
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (9).png.meta": {
+    "time": 1747066990092.8806
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star.png.meta": {
+    "time": 1747066990093.5269
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/watermelon (2).png.meta": {
+    "time": 1747066990093.064
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/tab.png.meta": {
+    "time": 1747066990102.435
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/watermelon.png.meta": {
+    "time": 1747066990107.1475
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/apple.png.meta": {
+    "time": 1747066990110.4282
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/caramel.png.meta": {
+    "time": 1747066990111.044
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/clock.png.meta": {
+    "time": 1747066990111.5386
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/default.png.meta": {
+    "time": 1747066990120.1267
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/peach.png.meta": {
+    "time": 1747066990127.4343
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/pear.png.meta": {
+    "time": 1747066990126.4849
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Font/LilitaOne-Regular.ttf.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Font/Rowdies-Light.ttf.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Font/Rowdies-Regular.ttf.meta": {
+    "time": 1746826864000
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/pomegranate.png.meta": {
+    "time": 1747066990127.0854
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/qrapes.png.meta": {
+    "time": 1747066990130.403
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/watermelon.png.meta": {
+    "time": 1747066990137.5186
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/3.png.meta": {
+    "time": 1747066990148.2622
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/4.png.meta": {
+    "time": 1747066990147.1912
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/6.png.meta": {
+    "time": 1747066990148.4448
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/brg.png.meta": {
+    "time": 1747066990149.713
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/cup.png.meta": {
+    "time": 1747066990155.6772
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/pause_bt_1.png.meta": {
+    "time": 1747066990159.3103
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/scroll.png.meta": {
+    "time": 1747066990155.5027
+  },
+  "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/pause_bt_2.png.meta": {
+    "time": 1747066990159.0918
+  }
+}

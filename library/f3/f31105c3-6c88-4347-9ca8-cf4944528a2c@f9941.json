@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn-hammer",
+    "atlas": "",
+    "rect": {
+      "x": 3,
+      "y": 5,
+      "width": 191,
+      "height": 192
+    },
+    "offset": {
+      "x": -1.5,
+      "y": -1
+    },
+    "originalSize": {
+      "width": 200,
+      "height": 200
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -95.5,
+        -96,
+        0,
+        95.5,
+        -96,
+        0,
+        -95.5,
+        96,
+        0,
+        95.5,
+        96,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        3,
+        195,
+        194,
+        195,
+        3,
+        3,
+        194,
+        3
+      ],
+      "nuv": [
+        0.015,
+        0.015,
+        0.97,
+        0.015,
+        0.015,
+        0.975,
+        0.97,
+        0.975
+      ],
+      "minPos": {
+        "x": -95.5,
+        "y": -96,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 95.5,
+        "y": 96,
+        "z": 0
+      }
+    },
+    "texture": "f31105c3-6c88-4347-9ca8-cf4944528a2c@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

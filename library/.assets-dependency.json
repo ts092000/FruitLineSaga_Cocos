@@ -1,0 +1,18 @@
+{
+  "path": {
+    "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/logo.skel": [
+      "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/logo.atlas"
+    ],
+    "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/logo.skel": [
+      "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/logo.atlas"
+    ]
+  },
+  "uuid": {
+    "/Users/ADMIN/Desktop/fruit-lines-saga/assets/Animation/logo.skel": [
+      "a686401c-84b9-41ee-89da-5585d2b6a0bb@6c48a"
+    ],
+    "/Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/logo.skel": [
+      "a686401c-84b9-41ee-89da-5585d2b6a0bb@6c48a"
+    ]
+  }
+}

@@ -1,0 +1,519 @@
+5-12-2025 09:35:27-debug: asset-db:worker-init (571ms)
+5-12-2025 09:35:27-debug: Preimport db internal success
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animationbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audiobackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Fontbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Imagebackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboardbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Prefabbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Scriptbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosionbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Scenebackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Tutorialbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boardsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/buttonbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruitsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Fontbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Imagebackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Scriptbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameCenterbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameManagerbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/Utilsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/PrefabControlbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/AudioController.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/EntryManager.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/MenuManager.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/NodeModal.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/PoolManager.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/ScoreManager.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/Splash.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/Tutorial.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Script/ItemLeaderboard.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Script/LeaderboardHandle.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameCenter/GameCenterController.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameCenter/StoreAPI.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameManager/GameController.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameManager/GameView.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/GameManager/MatrixManager.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/PrefabControl/AnimationScore.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/PrefabControl/Cell.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/PrefabControl/LevelBar.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/Utils/DataGame.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/Utils/Constants.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Script/Utils/DataTypes.tsbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:27-debug: Preimport db assets success
+5-12-2025 09:35:27-debug: asset-db:worker-effect-data-processing (76ms)
+5-12-2025 09:35:29-debug: Set detail map pack:///resolution-detail-map.json: {}
+5-12-2025 09:35:29-debug: Start up the 'internal' database...
+5-12-2025 09:35:29-debug: asset-db:worker-init-script (6ms)
+5-12-2025 09:35:29-debug: start asset-db with asset: 419
+5-12-2025 09:35:29-debug: Start up the 'assets' database...
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimBoom.animbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationBooster.animbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimSplash.animbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: asset-db:worker-startup-database[internal] (2224ms)
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationGameOver.animbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationFruit.animbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationGift.animbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationHammer.animbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationHidden.animbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationLoad.animbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationPointer.animbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/AnimationScore.animbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/animExplosion.animbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/logo.atlasbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/logo.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/logo.skelbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/appear.wavbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/award.mp3background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/bgm.mp3background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-log: UUID is initialized for "%s"./Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/logo.png
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/click-ball.mp3background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/button.mp3background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/explosion.mp3background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/hammer.mp3background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/lv failed.mp3background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/notice.mp3background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/spin.mp3background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/slide.mp3background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/tick.mp3background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Audio/win.mp3background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Font/LilitaOne-Regular.ttfbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/PreloadCircle.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Logo.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Background.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/PreloadCircle.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/PreloadSpinner.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/PreloadCircle.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Background.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/bar.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Background.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/PreloadSpinner.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/PreloadSpinner.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/logo.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/bar.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/logo.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/bar.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/bgdoc.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Logo.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/btn-close.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Logo.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/btn-close_.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/btn-close.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button-left.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/btn-close.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/btn-close_.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/btn-close_.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button-right.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/circlewhite.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button-left.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button-left.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/count_down_o.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/circlewhite.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button-right.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/circlewhite.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button-right.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/empty.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/emtyplay.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/count_down_o.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/gift.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/count_down_o.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/bgdoc.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/bgdoc.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/new-BG.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/empty.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/empty.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/emtyplay.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/emtyplay.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/gift.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/new-BG.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/gift.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/new-BG.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/texture-0.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/texture-1.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/white.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/whitebg.jpgbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/white.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/white.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/x2.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/whitebg.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/whitebg.jpg@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/ItemLeaderboard.prefabbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Leaderboard.prefabbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Prefab/AnimationScore.prefabbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Prefab/Cell.prefabbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/x2.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Prefab/Explosion.prefabbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/x2.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Prefab/Splash.prefabbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Scene/Begin.scenebackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Scene/Entry.scenebackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Scene/Game.scenebackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e1.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:29-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e10.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e11.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e10.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e1.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e10.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e1.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/texture-1.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e13.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e12.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/texture-1.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e11.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e11.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e13.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e12.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/texture-0.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e13.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e14.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e12.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/texture-0.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e15.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e16.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e17.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e14.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e14.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e16.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e15.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e17.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e15.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e16.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e18.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e17.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e19.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e20.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e2.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e21.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e18.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e18.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e20.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e2.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e19.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e20.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e2.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e22.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e19.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e21.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e21.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e23.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e25.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e26.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e27.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e22.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e22.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e23.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e26.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e25.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e27.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e23.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e26.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e25.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e27.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e28.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e29.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e3.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e30.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e4.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e29.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e28.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e3.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e29.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e28.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e3.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e30.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e30.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e4.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e6.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e5.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e7.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e4.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e5.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e8.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e9.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e5.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e6.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e6.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e8.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e7.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Tutorial/1.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e7.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e8.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e9.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Explosion/e9.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Tutorial/1.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/Tutorial/1.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/1.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/3.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/2.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/4.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/5.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/3.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/1.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/5.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/4.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/3.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/1.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/5.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/4.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/2.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/2.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/6.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/emtyplay-2.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/emtyplay.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/bg.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/emtyplay-2.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/6.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/bg.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/emtyplay.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/6.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/emtyplay-2.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-boom.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/boards/emtyplay.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/bg.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-hammer.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-home.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-close.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:30-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-play.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-boom.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-boom.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-hammer.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-close.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-home.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-hammer.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-close.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-play.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-home.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-play.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-return-2.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-return.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-setting.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/cell.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/circlewhite.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-return.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-return-2.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-return.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-return-2.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-setting.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/cell.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/btn-setting.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/cell.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/circlewhite.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/circlewhite.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/game.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/goal.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/gold.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/hammer.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/item-boom.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/game.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/game.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/goal.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/goal.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/gold.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/gold.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/hammer.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/hammer.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/item-boom.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/off.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/item-boom.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/on.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/option.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/play-blue.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/off.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/on.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/off.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/pointer-2.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/on.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/option.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/option.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/play-blue.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/play-blue.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/pointer.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (10).pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (11).pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/pointer-2.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/pointer-2.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (12).pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (2).pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/pointer.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (10).png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/pointer.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (10).png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (11).png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (11).png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (12).png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (3).pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (4).pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (12).png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (2).png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (2).png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (5).pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (6).pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (3).png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (7).pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (4).png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (3).png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (4).png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (5).png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (6).png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (8).pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (5).png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (6).png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (9).pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (7).png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (7).png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (8).png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/tab.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (8).png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (9).png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/watermelon (2).pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star (9).png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/watermelon.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/apple.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/star.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/watermelon (2).png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/watermelon (2).png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/tab.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/tab.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/caramel.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/watermelon.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/clock.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/apple.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/button/watermelon.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/apple.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/default.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/peach.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/caramel.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/pear.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/clock.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/caramel.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/clock.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/default.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/default.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/pomegranate.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/peach.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/pear.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/peach.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/qrapes.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/pear.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Font/LilitaOne-Regular.ttfbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/watermelon.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Font/Rowdies-Light.ttfbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/pomegranate.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/pomegranate.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Font/Rowdies-Regular.ttfbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/qrapes.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/3.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/qrapes.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/4.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/watermelon.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/6.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Image/fruits/watermelon.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/3.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/3.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/brg.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/4.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/4.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/cup.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/6.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/6.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/pause_bt_1.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/brg.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/brg.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/pause_bt_2.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/cup.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/scroll.pngbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/pause_bt_1.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/cup.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/pause_bt_1.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/scroll.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/scroll.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/pause_bt_2.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Leaderboard/Image/pause_bt_2.png@f9941background: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-debug: start asset-db with asset: 195
+5-12-2025 09:35:31-debug: %cImport%c: /Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/logo.skelbackground: #aaff85; color: #000;color: #000;
+5-12-2025 09:35:31-log: UUID is initialized for "%s"./Users/ADMIN/Desktop/FruitLineSaga_Cocos/FruitLineSaga/FruitLineSaga_Cocos/assets/Animation/logo.png
+5-12-2025 09:35:31-debug: Asset DB is ready!
+5-12-2025 09:35:31-debug: asset-db:worker-startup-database[assets] (3696ms)
+5-12-2025 09:35:31-debug: init worker message success
+5-12-2025 09:35:31-debug: programming:execute-script (1ms)
+5-12-2025 09:35:32-debug: builder:worker-init (826ms)
+5-12-2025 09:35:32-debug: programming:execute-script (2ms)
+5-12-2025 09:35:32-debug: Query all assets info in project
+5-12-2025 09:35:32-debug: init custom config: keepNodeUuid: false, useCache: true
+5-12-2025 09:35:32-debug: BuildAssetLibrary query-assets with assets 845
+5-12-2025 09:35:32-debug:   Number of all scenes: 3
+5-12-2025 09:35:32-debug:   Number of all scripts: 22
+5-12-2025 09:35:32-debug:   Number of other assets: 677
+5-12-2025 09:35:32-debug: Query asset bundle start0%
+5-12-2025 09:35:32-debug: // ---- build task Query asset bundle ----
+5-12-2025 09:35:32-debug: Process: heapTotal 243.55MB heapUsed 220.22MB rss 545.56MB
+5-12-2025 09:35:32-debug: // ---- build task Query asset bundle ---- (8ms)
+5-12-2025 09:35:32-debug: // ---- build task Query and organize assets ----
+5-12-2025 09:35:32-debug: Process: heapTotal 243.55MB heapUsed 216.48MB rss 537.45MB
+5-12-2025 09:35:32-debug: init bundle assets
+5-12-2025 09:35:32-debug: run build task Query asset bundle success in 8 ms √3%
+5-12-2025 09:35:32-debug: Query and organize assets start3%
+5-12-2025 09:35:32-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+5-12-2025 09:35:32-debug: Number of scenes: 3
+5-12-2025 09:35:32-debug: // ---- build task Query and organize assets ---- (3ms)
+5-12-2025 09:35:32-debug: run build task Query and organize assets success in 3 ms √7%
+5-12-2025 09:35:32-debug: Organize scripts start7%
+5-12-2025 09:35:32-debug: // ---- build task Organize scripts ----
+5-12-2025 09:35:32-debug: Process: heapTotal 243.55MB heapUsed 216.64MB rss 537.50MB
+5-12-2025 09:35:32-debug: sort script group...
+5-12-2025 09:35:32-debug: run build task Organize scripts success in 1 ms √10%
+5-12-2025 09:35:32-debug: Process: heapTotal 243.55MB heapUsed 216.68MB rss 537.50MB
+5-12-2025 09:35:32-debug: // ---- build task Init settings and config ----
+5-12-2025 09:35:32-debug: // ---- build task Organize scripts ---- (1ms)
+5-12-2025 09:35:32-debug: Init settings and config start10%
+5-12-2025 09:35:32-debug: run build task Init settings and config success in 0 ms √11%
+5-12-2025 09:35:32-debug: builder.tasks.settings.macro does not defined in i18n
+5-12-2025 09:35:32-debug: builder.tasks.settings.macro start11%
+5-12-2025 09:35:32-debug: // ---- build task builder.tasks.settings.macro ----
+5-12-2025 09:35:32-debug: Process: heapTotal 243.55MB heapUsed 216.70MB rss 537.50MB
+5-12-2025 09:35:32-debug: run build task builder.tasks.settings.macro success in 0 ms √11%
+5-12-2025 09:35:32-debug: Sort some build options to settings.json start11%
+5-12-2025 09:35:32-debug: // ---- build task Sort some build options to settings.json ----
+5-12-2025 09:35:32-debug: Process: heapTotal 243.55MB heapUsed 216.73MB rss 537.50MB
+5-12-2025 09:35:32-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
+5-12-2025 09:35:32-debug: custom joint texture layouts start12%
+5-12-2025 09:35:32-debug: // ---- build task custom joint texture layouts ----
+5-12-2025 09:35:32-debug: run build task Sort some build options to settings.json success in 2 ms √12%
+5-12-2025 09:35:32-debug: Process: heapTotal 243.81MB heapUsed 217.02MB rss 537.53MB
+5-12-2025 09:35:32-debug: run build task custom joint texture layouts success in 0 ms √12%
+5-12-2025 09:35:32-debug: // ---- build task custom joint physics ----
+5-12-2025 09:35:32-debug: custom joint physics start12%
+5-12-2025 09:35:32-debug: Process: heapTotal 243.81MB heapUsed 217.04MB rss 537.53MB
+5-12-2025 09:35:32-debug: run build task custom joint physics success in 0 ms √13%
+5-12-2025 09:35:32-debug: Fill script data to settings start13%
+5-12-2025 09:35:32-debug: // ---- build task Fill script data to settings ----
+5-12-2025 09:35:32-debug: Process: heapTotal 243.81MB heapUsed 217.06MB rss 537.53MB
+5-12-2025 09:35:32-debug: run build task Fill script data to settings success in 0 ms √13%
+5-12-2025 09:35:32-debug: Fill scene data to settings start13%
+5-12-2025 09:35:32-debug: // ---- build task Fill scene data to settings ----
+5-12-2025 09:35:32-debug: Process: heapTotal 243.81MB heapUsed 217.07MB rss 537.53MB
+5-12-2025 09:35:32-debug: run build task Fill scene data to settings success in 0 ms √14%
+5-12-2025 09:35:32-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ----
+5-12-2025 09:35:32-debug: Organize assets groups，generate packedAssets and rawAssets data start14%
+5-12-2025 09:35:32-debug: Process: heapTotal 243.81MB heapUsed 217.09MB rss 537.55MB
+5-12-2025 09:35:32-debug: run build task Organize assets groups，generate packedAssets and rawAssets data success in 0 ms √14%
+5-12-2025 09:35:32-debug: Generate md5AssetsMap from suffixMap to settings start14%
+5-12-2025 09:35:32-debug: Process: heapTotal 243.81MB heapUsed 217.12MB rss 537.55MB
+5-12-2025 09:35:32-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ----
+5-12-2025 09:35:32-debug: options.md5Cache is false.
+5-12-2025 09:35:32-debug: run build task Generate md5AssetsMap from suffixMap to settings success in 0 ms √15%
+5-12-2025 09:36:35-debug: refresh db internal success
+5-12-2025 09:36:35-debug: asset-db:worker-effect-data-processing (106ms)
+5-12-2025 09:36:35-debug: refresh db assets success
+5-12-2025 09:36:35-debug: asset-db:refresh-all-database (145ms)
+5-12-2025 09:36:40-debug: refresh db internal success
+5-12-2025 09:36:40-debug: asset-db:worker-effect-data-processing (77ms)
+5-12-2025 09:36:40-debug: refresh db assets success
+5-12-2025 09:36:40-debug: asset-db:refresh-all-database (101ms)
+5-12-2025 09:36:46-debug: refresh db internal success
+5-12-2025 09:36:47-debug: asset-db:worker-effect-data-processing (72ms)
+5-12-2025 09:36:47-debug: refresh db assets success
+5-12-2025 09:36:47-debug: asset-db:refresh-all-database (107ms)

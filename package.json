@@ -1,0 +1,14 @@
+{
+  "name": "magic-lines",
+  "uuid": "12fe883c-63e0-4081-99c1-10d6b518cbb8",
+  "creator": {
+    "version": "3.7.4"
+  },
+  "dependencies": {
+    "@onechaintech/gamesdk": "^0.0.35",
+    "@onechaintech/gamesdk-dev": "^0.0.35"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
